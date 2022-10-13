@@ -26,4 +26,4 @@ const Sports = (props) => {
     )
 }
 
-export default React.memo(Sports)
+export default Sports
