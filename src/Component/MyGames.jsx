@@ -6,7 +6,7 @@ import Racing from './Category/Racing/Racing'
 import Sports from './Category/Sports/Sports'
 import './MyGames.css'
 
-export default function MyGames() {
+const MyGames = () => {
 
   const [slide, updateSlide] = useState(0)
   const [show, updateShow] = useState('hide')
@@ -22,7 +22,6 @@ export default function MyGames() {
   return (
     <>
       <div id='head'>WELCOME TO MY REACT-GAMING-CAROUSEL</div>
-    
       <div className='appCont'>
         <div className={show} >
           <button className={showButton} onClick={() => updateURL(null) || updateShow('hide') || updateShowButton('hide')}  >⬅</button>
@@ -45,3 +44,5 @@ export default function MyGames() {
     </>
   )
 }
+
+export default React.memo(MyGames)
