@@ -27,4 +27,4 @@ const Racing = (props) => {
 }
 
 
-export default React.memo(Racing)
+export default Racing
