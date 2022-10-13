@@ -36,8 +36,8 @@ export default function MyGames() {
           <div style={{ transform: `translateX(${slide}00%)` }} className='pages' id='carouselPage5'> <Puzzle showFrame={showFrame} /></div>
         </div>
 
-        <div onClick={() => slide < -3 ? null : updateSlide(slide - 1)} className='carouselNav' id='rightBtn'>{'>'}</div>
-        <div onClick={() => slide === 0 ? null : updateSlide(slide + 1)} className='carouselNav' id='leftBtn'>{'<'}</div>
+        <div onClick={() => slide < -3 ? null : updateSlide(slide - 1)} className='carouselNav' id='rightBtn'>⪢</div>
+        <div onClick={() => slide === 0 ? null : updateSlide(slide + 1)} className='carouselNav' id='leftBtn'>⪡</div>
         <div id='frontprof' onClick={() => window.location.href = "https://github.com/Aman-Dhyani"} title='Visit My Github' className='prof'></div>
         <div id='runningprof' className='prof'></div>
       </div>
