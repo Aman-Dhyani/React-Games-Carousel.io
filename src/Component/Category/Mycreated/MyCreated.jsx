@@ -27,4 +27,4 @@ const MyCreated = (props) => {
     )
 }
 
-export default React.memo(MyCreated)
+export default MyCreated
