@@ -22,6 +22,7 @@ export default function MyGames() {
   return (
     <>
       <div id='head'>WELCOME TO MY REACT-GAMING-CAROUSEL</div>
+    
       <div className='appCont'>
         <div className={show} >
           <button className={showButton} onClick={() => updateURL(null) || updateShow('hide') || updateShowButton('hide')}  >⬅</button>
