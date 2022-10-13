@@ -26,5 +26,4 @@ const Action = (props) => {
     )
 }
 
-export default React.memo(Action)
-
+export default Action
