@@ -45,4 +45,4 @@ const MyGames = () => {
   )
 }
 
-export default React.memo(MyGames)
+export default MyGames;
