@@ -152,7 +152,7 @@
   box-shadow: #422800 4px 4px 0 0;
   color: #422800;
   cursor: pointer;
-  font-size: 40px;
+  font-size: 20px;
   z-index: 1;
   position: absolute;
   bottom: 91%;
@@ -200,6 +200,7 @@
   .button-74 {
     width: 20%;
     left: 40%;
+    font-size:15px;
   }
 
   .carouselNav {
