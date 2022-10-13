@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/React-Games-Carousel.io/static/css/main.1575668f.css",
-    "main.js": "/React-Games-Carousel.io/static/js/main.85b98373.js",
+    "main.js": "/React-Games-Carousel.io/static/js/main.ac519735.js",
     "static/js/787.28cb0dcd.chunk.js": "/React-Games-Carousel.io/static/js/787.28cb0dcd.chunk.js",
     "static/media/bg.jpg": "/React-Games-Carousel.io/static/media/bg.d058921f24e93241699f.jpg",
     "index.html": "/React-Games-Carousel.io/index.html",
     "main.1575668f.css.map": "/React-Games-Carousel.io/static/css/main.1575668f.css.map",
-    "main.85b98373.js.map": "/React-Games-Carousel.io/static/js/main.85b98373.js.map",
+    "main.ac519735.js.map": "/React-Games-Carousel.io/static/js/main.ac519735.js.map",
     "787.28cb0dcd.chunk.js.map": "/React-Games-Carousel.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1575668f.css",
-    "static/js/main.85b98373.js"
+    "static/js/main.ac519735.js"
   ]
 }
