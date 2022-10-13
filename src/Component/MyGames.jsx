@@ -24,7 +24,7 @@ const MyGames = () => {
       <div id='head'>WELCOME TO MY REACT-GAMING-CAROUSEL</div>
       <div className='appCont'>
         <div className={show} >
-          <button className={showButton} onClick={() => updateURL(null) || updateShow('hide') || updateShowButton('hide')}  >⬅</button>
+          <button className={showButton} onClick={() => updateURL(null) || updateShow('hide') || updateShowButton('hide')}  >back</button>
           <iframe title='play games' src={playURL} id="ifm" frameBorder="0"> </iframe>
         </div>
 
@@ -45,4 +45,4 @@ const MyGames = () => {
   )
 }
 
-export default MyGames;
+export default React.memo(MyGames)
