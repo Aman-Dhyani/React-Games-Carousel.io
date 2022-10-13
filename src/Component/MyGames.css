@@ -144,6 +144,7 @@
 
 /* CSS */
 .button-74 {
+  height: 7vh;
   min-width: 10%;
   background-color: #fbeee0;
   border: 2px solid #422800;
@@ -156,6 +157,10 @@
   position: absolute;
   bottom: 91%;
   left: 45%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 92%;
 }
 
 .button-74:hover {
