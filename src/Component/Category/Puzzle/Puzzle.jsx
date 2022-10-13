@@ -26,4 +26,4 @@ const Puzzle = (props) => {
     )
 }
 
-export default React.memo(Puzzle)
+export default Puzzle
