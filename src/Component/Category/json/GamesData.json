@@ -1,0 +1,249 @@
+{
+    "Games": [
+        {
+            "MyCreated": [
+                {
+                    "id": 1,
+                    "name": "Civil War",
+                    "image": "https://i.ytimg.com/vi/jta3BNSLKHk/maxresdefault.jpg",
+                    "summary": "A Fighting games based on Captain Amenica Civil war Movie, In this game you can jump,move,punch and shoot projectiles (cap shield), It is a local version of Takken type games",
+                    "url": "https://aman-dhyani.github.io/Civil-War-Multiplayer-Fighting-Game.io/",
+                    "source": "https://github.com/Aman-Dhyani/Civil-War-Multiplayer-Fighting-Game.io"
+                },
+                {
+                    "id": 2,
+                    "name": "No Way Home",
+                    "image": "https://i.pinimg.com/originals/90/13/38/901338ecc63e4328774df3f3e0567a55.jpg",
+                    "summary": "A SpiderMan run & slide game in which you havs to dodge from upcoming spiderman sinisters , I put 5 spiderman enemies it it with their powers",
+                    "url": "https://aman-dhyani.github.io/SpiderMan-NWH-Game.io/",
+                    "source": "https://github.com/Aman-Dhyani/SpiderMan-NWH-Game.io"
+                },
+                {
+                    "id": 3,
+                    "name": "Earth Ragnarok",
+                    "image": "https://pic-bstarstatic.akamaized.net/ugc/e2cdf693b01047f852cc4e6d3a1b5961.jpeg",
+                    "summary": "Earth Ragnarok Game id inspired by Thor Ragnarok movie, In this game you have to protect earth from thanos spaceship by throwing (shooting) Thor's Hammer (Mjioner)",
+                    "url": "https://aman-dhyani.github.io/Earth-Ragnarok-Game.io/",
+                    "source": "https://github.com/Aman-Dhyani/Earth-Ragnarok-Game.io"
+                },
+                {
+                    "id": 4,
+                    "name": "Spells Of Madness",
+                    "image": "https://www.thenewsfetcher.com/wp-content/uploads/2021/12/gargantos-doctor-strange-2.jpg",
+                    "summary": "This is a typing games inspire by Dr.Strange 2 movie, In this game You have to type the given spells fast to save from Gargantos",
+                    "url": "https://aman-dhyani.github.io/Dr.Strange-In-The-Spells-Of-Madness-Game.io/",
+                    "source": "https://github.com/Aman-Dhyani/Dr.Strange-In-The-Spells-Of-Madness-Game.io"
+                }
+            ]
+        },
+        {
+            "Action": [
+                {
+                    "id": 1,
+                    "name": "Typing Fighter",
+                    "image": "https://nebulousgame.com/wp-content/uploads/thumbs/gamemonetize/T/typing-fighter.jpg",
+                    "summary": "Typing Fighter is a free typing game. Life is a never-ending campaign of battles Some of those battles are before us and some of those battles are behind us. But every battle leads to a new now. ",
+                    "url": "https://www.addictinggames.com/embed/html5-games/25047",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "Fork Shooter",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fforkshootergame.jpg&w=1920&q=75",
+                    "summary": "Fork Shooter is a free target game. Now is the time to get serious about sausages. Sausages are an unhealthy and delicious way to get your recommended dosage of salt and preservatives.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/24962",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "Country Shooting",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fshootgame.jpg&w=1920&q=75",
+                    "summary": "Country Shooting is a free target game. Welcome to one of the greatest free shooting games available for free online and on your mobile device.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/24353",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "Tiny Car",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Ftinycars.jpg&w=1920&q=75",
+                    "summary": "Tiny Cars is a free racing game. Don't let the name fool you, Tiny Cars is certainly one big game. In this tiny racing game, you'll have to be quick, nimble, and out-think.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/25142",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 5,
+                    "name": "Ludo Legend",
+                    "image": "https://m.media-amazon.com/images/I/71oCXkId4cL.png",
+                    "summary": "It is an online free ludo game.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/24864",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 6,
+                    "name": "Raft War 2",
+                    "image": "https://i.ytimg.com/vi/FPZMXwGSwpQ/hqdefault.jpg",
+                    "summary": "Help Simon defend his treasure from pirates in this raft wars game. Simon made the discovery of diamonds while playing in the sand one day.Your goal is to knock out each of your opponents using tennis balls or other items that you’ve acquired. ",
+                    "url": "https://www.addictinggames.com/embed/html5-games/16413",
+                    "source": "https://www.addictinggames.com/"
+                }
+            ]
+        },
+        {
+            "Racing": [
+                {
+                    "id": 1,
+                    "name": "RaceRight",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fracerightgamescreen.jpg&w=1920&q=75",
+                    "summary": "Race Right is a free racing game. there are a lot of ways to race. You can do it in cars, on motorcycles, with jets, and yes even using speedboats. ",
+                    "url": "https://www.addictinggames.com/embed/html5-games/24804",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "EndlessTruck",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fendlesstruckgame.jpg&w=1920&q=75",
+                    "summary": "Endless Truck is a free racing game. You're going to need monster skills to get behind the wheel of this monster truck and pull off monster stunts to score monster points and make monster cash. ",
+                    "url": "https://www.addictinggames.com/embed/html5-games/23635",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "Risky Way",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Friskyway.jpg&w=1920&q=75",
+                    "summary": "Risky Way is a free instant game. The highways of the future are risky and if you want to survive you'll need to be smarter than all of them combined.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/25079",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "Endless Rush",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fendlessrushgame.jpg&w=1920&q=75",
+                    "summary": "Endless Rush is a free racing game. The rush never ends. Not when there are coins to be collected, obstacles to dodge, and miles to put behind you. That is right! There’s no traffic cop around and you’re in a rush to get to your destination.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/25124",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 5,
+                    "name": "Two Cars",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Ftwo-cars_sp.png&w=1920&q=75",
+                    "summary": "No more, no less.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/18446",
+                    "source": "https://www.addictinggames.com/"
+                },
+    
+                {
+                    "id": 6,
+                    "name": "HighHills",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fhighhillsscreen.jpg&w=1920&q=75",
+                    "summary": "igh Hills is a racing game. Move fast and move often. In High Hills, you're a 4x4 jeep trecking their way across the northwest. Hop in and slam on the accelerator as you navigate the hills and valleys of this sprawling racing game",
+                    "url": "https://www.addictinggames.com/embed/html5-games/23644",
+                    "source": "https://www.addictinggames.com/"
+                }
+            ]
+        },
+        {
+            "Sports": [
+                {
+                    "id": 1,
+                    "name": "Basket",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fbasketball-line_sp.png&w=1920&q=75",
+                    "summary": "Draw a line to steer the balls into the basket.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/22894",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "Archer",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fstickman-archery_sp.png&w=1920&q=75",
+                    "summary": "Every stickman needs a hobby and archery is as good as any other. Imagine the elegance of a bowed weapon and the thrill of trying to hit a target.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/18456",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "Ultimate Football",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2FUltimate-Football.jpg&w=1920&q=75",
+                    "summary": "Well, there are footballs and players, but it's like no football game you've ever seen. It's a passing target range.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/19889",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "pool Mania",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fpoolmaniagamescreeeen.jpg&w=1920&q=75",
+                    "summary": "Move mouse to change the direction. Click and hold to pull your cue, then drag backwards and release to shoot balls.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/25055",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 5,
+                    "name": "3D bowling",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2F3DBOWLINGSCREENGAME.jpg&w=1920&q=75",
+                    "summary": "3D Bowling is a free online sports game that has two-player capabilities! Play by yourself or with a pal with this online version game of bowling.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/23910",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 6,
+                    "name": "Tennis",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Ftropicaltennisgame.jpg&w=1920&q=75",
+                    "summary": "Tropical Tennis is a free sports game. Welcome to a truly international game: tennis. Tennis is a game that was designed for kings and queens to play in order to non-violently decide the fate of nations. ",
+                    "url": "https://www.addictinggames.com/embed/html5-games/25139",
+                    "source": "https://www.addictinggames.com/"
+                }
+            ]
+        },
+        {
+            "Puzzle": [
+                {
+                    "id": 1,
+                    "name": "Don't Fall",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2FDONTFALLGAMESCREEN.jpg&w=1920&q=75",
+                    "summary": "Don't Fall is a free balance game.Tap and hold to set the jump strength. Move mouse to change the destination. Release to jump.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/25117",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "kid cutepair",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fkidscutepairsgamescreenredo.jpg&w=1920&q=75",
+                    "summary": "Kids Cuter pairs is a fun matching game.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/24870",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "Tactical assassination",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2FTactical-Assassin.jpg&w=1920&q=75",
+                    "summary": "Tactical Assassin is a free sniper game. It's almost like being hired by Tony Soprano. Use your aim and stealth to take out the targets, but don't hit any civilians.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/16294",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "avalanche",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Favalanche_sp.png&w=1920&q=75",
+                    "summary": "Avalanche is a free platform puzzle game. Are you a towelette, or maybe a marshmallow? Whatever the case, there are huge, square bolts to dodge. Can you avoid this avalanche?",
+                    "url": "https://www.addictinggames.com/embed/html5-games/17226",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 5,
+                    "name": "demining",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fdemininggame.jpg&w=1920&q=75",
+                    "summary": "use your mouse to point and click or your finger to tap. You are trying to pinpoint the black ball bearing flying back and forth through the tubes.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/25141",
+                    "source": "https://www.addictinggames.com/"
+                },
+                {
+                    "id": 6,
+                    "name": "wordDetector",
+                    "image": "https://www.addictinggames.com/_next/image?url=https%3A%2F%2Fprod.addictinggames.com%2Fsites%2Fdefault%2Ffiles%2Fword-detector-0.jpg&w=1920&q=75",
+                    "summary": "Word Detector is a free word search game. So, you think you can spell? Well, we dare you to try and prove it. Some word games are a stodgy affair rife with trivia and pedantic rules about grammar.",
+                    "url": "https://www.addictinggames.com/embed/html5-games/24774",
+                    "source": "https://www.addictinggames.com/"
+                }
+            ]
+        }
+    ]
+}

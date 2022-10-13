@@ -1,0 +1,211 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  overflow-y: hidden;
+}
+
+#head {
+  text-align: center;
+  font-size: 15px;
+  padding: 0.5%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.prof {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  padding: 0.5%;
+  bottom: 93%;
+  cursor: pointer;
+}
+
+#frontprof {
+  background-image: url('https://avatars.githubusercontent.com/u/102688642?v=4');
+}
+
+#runningprof {
+  border: 4px rgba(0, 149, 255, 0.892) dashed;
+  animation: live 3s linear infinite;
+  bottom: 92.3%;
+  transition: 0.5s;
+}
+
+#prof:active {
+  border: 1px solid orangered;
+}
+
+@keyframes live {
+  50% {
+    transform: rotate(360deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+
+  30% {
+    transform: rotate(-360deg);
+  }
+}
+
+.appCont {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../Component/bg.jpg');
+  background-size: 100% 100%;
+}
+
+#carousel {
+  height: 85vh;
+  width: 70%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: hidden;
+}
+
+.pages {
+  height: 85vh;
+  width: 100%;
+  position: absolute;
+  transition: 0.5s;
+  overflow-y: scroll;
+  background-size: contain;
+  color: white;
+}
+
+#carouselPage1 {
+  left: 0%;
+}
+
+#carouselPage2 {
+  left: 100%;
+}
+
+#carouselPage3 {
+  left: 200%;
+}
+
+#carouselPage4 {
+  left: 300%;
+}
+
+#carouselPage5 {
+  left: 400%;
+}
+
+.carouselNav {
+  font-size: 30px;
+  position: absolute;
+  color: orangered;
+  font-size: 80px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.carouselNav:active {
+  font-size: 49px;
+}
+
+#rightBtn {
+  left: 89%;
+}
+
+#leftBtn {
+  left: 7%;
+}
+
+.screen {
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  transition: 0.5s;
+  background-color: black;
+  z-index: 1;
+  border: 5px solid yellow;
+}
+
+#ifm {
+  height: 90vh;
+  width: 100%;
+  position: absolute;
+  bottom: 0%;
+}
+
+/* CSS */
+.button-74 {
+  min-width: 10%;
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  font-size: 40px;
+  z-index: 1;
+  position: absolute;
+  bottom: 91%;
+  left: 45%;
+}
+
+.button-74:hover {
+  background-color: #fff;
+}
+
+.button-74:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+.hide {
+  display: none;
+}
+
+
+@media screen and (max-width:1180px) {
+
+  #carousel {
+    border: 0px solid white;
+  }
+
+  .carouselNav {
+    font-size: 80px;
+  }
+
+  #rightBtn {
+    left: 85%;
+  }
+
+  #leftBtn {
+    left: 5%;
+  }
+}
+
+@media screen and (max-width:473px) {
+  .button-74 {
+    width: 20%;
+    left: 40%;
+  }
+
+  .carouselNav {
+    font-size: 40px;
+  }
+
+  #rightBtn {
+    left: 87%;
+  }
+
+  #leftBtn {
+    left: 3%;
+  }
+}
